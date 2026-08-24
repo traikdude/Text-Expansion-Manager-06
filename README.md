@@ -66,7 +66,7 @@ mindmap
   root((⚡ Text Expansion Manager))
     ⌨️ Snippet Engine
       Trigger Key Matching
-      Multilingual Support (EN / ES)
+      Multilingual Support EN and ES
       Category & Subcategory Hierarchy
       Favorite & Quick Pinning
     🎨 Typography Styler
